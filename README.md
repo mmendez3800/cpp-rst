@@ -20,3 +20,6 @@ After cloning or forking the repository, you can run the program through the com
    - `g++ RST.cpp countint.cpp`
 3. Run the executable created
    - `./a.out`
+
+## Output
+![Output of RST program](images/rst.png)
